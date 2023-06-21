@@ -1,0 +1,6 @@
+cust:
+  info:
+    cust-no: 101
+    cust-name: Naveen
+    cust-addrs: Bangalore
+    bill-amt: 7000

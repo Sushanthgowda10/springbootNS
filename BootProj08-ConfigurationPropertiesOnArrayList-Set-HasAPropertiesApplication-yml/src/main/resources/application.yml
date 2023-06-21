@@ -1,0 +1,19 @@
+org:
+  softtek:
+    company:
+      addrs: Mysore
+      id: 7108
+      name: Softtek
+      size: 800
+    ename: Shree
+    eno: 2190
+    fav-colors:
+    - Green
+    - White
+    - Blue
+    id-details:
+      adharid: 982353678865
+      passportno: SMSKA765
+      voteid: JAS7578
+    nicknames: appu,putta,chinni
+    phone-numbers: 7019398136,9876543210,1234567890
